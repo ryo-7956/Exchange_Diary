@@ -24,3 +24,4 @@ src/storage/*
 !src/storage/.keep
 /public/uploads
 
+src/node_modules/.cache/
