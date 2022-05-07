@@ -1,6 +1,6 @@
 # https://github.com/github/gitignore/blob/main/Rails.gitignore の内容を参考
 
-src/db/*
+src/db/mysql_data/
 
 # Ignore all logfiles and tempfiles.
 src/log/*
@@ -23,3 +23,4 @@ src/vendor/bundle
 src/storage/*
 !src/storage/.keep
 /public/uploads
+
