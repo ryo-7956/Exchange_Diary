@@ -22,6 +22,7 @@ src/vendor/bundle
 # Ignore uploaded files in development
 src/storage/*
 !src/storage/.keep
-/public/uploads
+src/public/uploads
 
 src/node_modules/.cache/
+
